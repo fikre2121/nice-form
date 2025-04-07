@@ -88,7 +88,7 @@ button:hover {
   background: #0056b3;
 }
 
-@media (max-width: 400px) {
+@media (min-width: 700px) {
   .form-container {
     width: 50%;
   }
